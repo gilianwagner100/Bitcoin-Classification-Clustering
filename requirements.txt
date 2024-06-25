@@ -1,0 +1,17 @@
+# General libraries
+pandas==1.5.3
+numpy==1.24.3
+
+# Visualization libraries
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning libraries
+scikit-learn==1.2.2
+
+# Spark libraries (conditional on WITH_SPARK)
+pyspark==3.4.0
+pyspark-pandas==3.4.0
+
+# System libraries
+zipfile36==0.1.3
