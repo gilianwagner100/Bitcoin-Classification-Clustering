@@ -19,7 +19,7 @@ After classification, we removed the label column and proceeded to cluster the d
 ```
 3. Open Jupyter Notebook:
 ```sh
-jupyter notebook
+    jupyter notebook
 ```
 4. Run the notebook `Master_Notebook.ipynb` to see the implementation and results of the project.
 
